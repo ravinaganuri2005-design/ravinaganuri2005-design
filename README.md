@@ -10,8 +10,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravinaganuri2005-design&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=ravinaganuri2005-design&theme=dark&ring=orange&fire=orange&currStreakLabel=orange&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ravinaganuri2005-design&show_icons=true&theme=transparent&title_color=orange&icon_color=orange&text_color=ffffff&bg_color=0d1117&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=ravinaganuri2005-design&theme=transparent&ring=orange&fire=orange&currStreakLabel=orange&background=0d1117&hide_border=true" height="180"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
