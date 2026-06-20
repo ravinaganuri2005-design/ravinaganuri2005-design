@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ravi Naganuri<br><br>* 🎓 BCA Final Year student at "Rani Channamma University"<br>* 🌱 Currently learning "Python & Data Structures"<br>* 🧠 Practicing coding daily to improve problem-solving skills<br>* 💻 Uploading my programs and mini-projects on GitHub<br>* 🚀 Aspiring "Software Developer"<br>* 🎯 Goal: Build strong technical skills and get a good IT job<br>
+👋 Hi, I’m Ravi Naganuri<br><br>* 🎓 BCA Final Year student at "Rani Channamma University"<br>* 🌱 Currently learning "Python & Data Structures"<br>* 🧠 Practicing coding daily to improve problem-solving skills<br>* 💻 Uploading my programs and mini-projects on GitHub<br>* 🚀 Aspiring "AI Engineer"<br>* 🎯 Goal: Build strong technical skills and get a good IT job<br>
 
 
 ## 🌐 Socials:
