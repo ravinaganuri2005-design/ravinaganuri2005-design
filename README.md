@@ -1,5 +1,15 @@
-# 💫 About Me:
-👋 Hi, I’m Ravi Naganuri<br><br>* 🎓 BCA Graduate at "Rani Channamma University"<br>* 🌱 Currently learning "Python & Data Structures"<br>* 🧠 Practicing coding daily to improve problem-solving skills<br>* 💻 Uploading my programs and mini-projects on GitHub<br>* 🚀 Aspiring "AI Engineer"<br>* 🎯 Goal: Build strong technical skills and get a good IT job<br>
+## 💫 About Me
+
+👋 Hi, I’m **Ravi Naganuri**, a BCA graduate passionate about building a career in **AI and Software Engineering**.
+
+* 🎓 BCA Graduate
+* 🐍 Strengthening my skills in **Python & Data Structures & Algorithms**
+* 🤖 Exploring **AI, Generative AI & AI-powered applications**
+* 💻 Building projects and documenting my learning journey on GitHub
+* 🧠 Focused on improving **problem-solving and software development skills**
+* 🚀 Aspiring **AI Software Engineer**
+* 🎯 Goal: **Build real-world AI solutions and start a successful career in the IT industry**
+
 
 
 ## 🌐 Socials:
